@@ -3,6 +3,9 @@
 Author:    Brenda A Bell
 Permalink: http://brendaabell.com/2014/02/arduino-series-working-with-an-optical-encoder/
 
+Sample program that simulates carriage position and direction using an optical
+encoder.
+
 *******************************************************************************/
 #define ENCODER0PINA         20      // this pin needs to support interrupts
 #define ENCODER0PINB         17      // no interrupt required
