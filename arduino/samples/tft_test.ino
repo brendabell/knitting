@@ -1,3 +1,10 @@
+/*******************************************************************************
+
+Author:    Brenda A Bell
+
+Sample program that simulates display of carriage position and direction
+
+*******************************************************************************/
 #include <stdint.h>
 #include <TouchScreen.h>
 #include <TFT.h>
